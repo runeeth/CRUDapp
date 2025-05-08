@@ -1,0 +1,83 @@
+
+/* .login-box {
+    max-width: 400px;
+    margin: auto;
+    margin-top: 10%;
+    padding: 2rem;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+  .login-box{
+    margin-left: 580px;
+  }
+  .movecenter{
+     margin-left: 490px;
+  } 
+.move{
+    margin-left: 510px;
+    padding: 30px;
+} */
+  
+  /* //////////// form /////////////  */
+ 
+ 
+  /* .form-container
+   {
+    width: 160%;
+    margin: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+  }
+   body {
+    height: 100vh;
+  
+  }  */
+
+ 
+
+
+  .bgform{
+    background-color : #B85042 ;
+    
+  
+    
+  }
+  
+    .mtmb{
+      margin-top: 100px;
+     
+
+    }
+
+    .fborder{
+      border-radius: 10px;
+    }
+
+    /* loginform */
+
+.logmtmb{
+
+  margin-top: 200px;
+  
+ 
+}
+
+.admtmb{
+
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.tableborder{
+  border-radius: 10px;
+}
+
+.updmtmb{
+
+  margin-top: 200px;
+    
+}
