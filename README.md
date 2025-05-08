@@ -13,3 +13,4 @@ If you are developing a production application, we recommend using TypeScript wi
 ![image alt](https://github.com/runeeth/CRUDapp/blob/46eabef61d4f211f917469ca4fb77e97866481c0/login.png)
 ![image alt](https://github.com/runeeth/CRUDapp/blob/426ac9c6ab1e912733e7ef74a923f225002e6816/registration.png)
 ![image alt](https://github.com/runeeth/CRUDapp/blob/426ac9c6ab1e912733e7ef74a923f225002e6816/updatedata.png)
+![image alt](https://github.com/runeeth/CRUDapp/blob/426ac9c6ab1e912733e7ef74a923f225002e6816/student%20details.png)
